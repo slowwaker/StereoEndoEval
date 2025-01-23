@@ -1,5 +1,6 @@
-THIS IS A SLIGHTLY MODIFIED VERSION.
+# THIS IS A SLIGHTLY MODIFIED VERSION.
 Changes have been made to allow /scripts/disparity_to_original_depthmap.py to generate depthmaps from estimated disparity maps for the SERV-CT dataset aswell.
+
 Use command:
 "python -m scripts.disparity_to_original_depthmap address_to_depthmap output_address address_to_calibration.json --overwrite --scale_factor 256"
 
