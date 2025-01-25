@@ -1,3 +1,5 @@
+Github Repo Link: https://github.com/chloelle/SNCC_GPU
+
 All input images must be in grayscale and .pgm format.
 
 Output is in .pgm format. Output images are accessible in the disparity_GPU_SNCC5x5_13x13 folder
